@@ -52,6 +52,9 @@ Exemplo.
 
 Para coletar e cadastrar dados, é necessário rodar o [backend](https://github.com/alex-dev2015/proffy_server) da aplicação. Segue um exemplo de execução do sistema.
 
+![Desafio](https://github.com/alex-dev2015/proffy_web/blob/master/src/assets/images/Proffy.gif)
+
+
 ## ✍️ Authors <a name = "authors"></a>
 
 - [Alex Sousa](https://alexsousa.eti.br/) - Desenvolvedor Full Stack
